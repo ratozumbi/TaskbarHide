@@ -1,0 +1,9 @@
+C:\dev\TaskbarHide_v1_2\TaskbarHide\bin\Debug\TaskbarHide.exe.config
+C:\dev\TaskbarHide_v1_2\TaskbarHide\bin\Debug\TaskbarHide.exe
+C:\dev\TaskbarHide_v1_2\TaskbarHide\bin\Debug\TaskbarHide.pdb
+C:\dev\TaskbarHide_v1_2\TaskbarHide\obj\Debug\TaskbarHide.csproj.AssemblyReference.cache
+C:\dev\TaskbarHide_v1_2\TaskbarHide\obj\Debug\TaskbarHide.frmMain.resources
+C:\dev\TaskbarHide_v1_2\TaskbarHide\obj\Debug\TaskbarHide.csproj.GenerateResource.cache
+C:\dev\TaskbarHide_v1_2\TaskbarHide\obj\Debug\TaskbarHide.csproj.CoreCompileInputs.cache
+C:\dev\TaskbarHide_v1_2\TaskbarHide\obj\Debug\TaskbarHide.exe
+C:\dev\TaskbarHide_v1_2\TaskbarHide\obj\Debug\TaskbarHide.pdb
